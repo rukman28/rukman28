@@ -1,16 +1,19 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rukman28.rukman28" />
 
-<!--
-**rukman28/rukman28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there👋;+I'm+Rukman+Bernard!;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A front-end development enthusiast from Sri Lanka</h3>
+<br />
+<div align="center">
+ 
+ 🔭 I’m currently working on **Front-end development**
+ 
+ 🌱 I’m currently learning **Docker,Kubernetes,Photoshop,Machine Learning,**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about **Node.js,React js,Angular,AWS,Azure,Tailwind CSS**
+
+⚡ Fun fact **MIT Has Computers That can Detect Fake Smiles**
+
+ </div>
